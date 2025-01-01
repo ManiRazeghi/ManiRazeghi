@@ -1,1 +1,1 @@
-## This Profile will be apdated in few days...please`wait`.
+## This Profile will be update in few days...please`wait`.
