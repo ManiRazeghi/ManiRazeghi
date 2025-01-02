@@ -12,6 +12,8 @@
 ## My `skills`💻:
 <p><img src="https://raw.githubusercontent.com/ManiRazeghi/ManiRazeghi/refs/heads/main/python_img.jfif" height="70px" width="70px">
 <img src= "https://raw.githubusercontent.com/ManiRazeghi/ManiRazeghi/refs/heads/main/dj_image.jfif" height="70px" width="70px">
+<img src="https://github.com/ManiRazeghi/ManiRazeghi/blob/main/git_logo.png?raw=true" height="70px" width="100px">
+<img src="https://raw.githubusercontent.com/ManiRazeghi/ManiRazeghi/refs/heads/main/vs_logo.jfif" heigth="70px" width="70px">
 </p>
 
 ## Short `Account Information`🔍:
