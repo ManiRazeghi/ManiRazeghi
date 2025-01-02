@@ -8,7 +8,7 @@
   print(user.telegram) #output: 'https://t.me/intell_End'
   print(user.is_learning) #output: True
 ```
-#### I joined the programming world in 2021. Almost one year seek the programming fields and finally choosed the `Back End Developing` field.
+#### I joined the programming world in 2021. I sought the programming fields for almost a year and finally chose the `Back End Development` field.
 ## My `skills`💻:
 <p><img src="https://raw.githubusercontent.com/ManiRazeghi/ManiRazeghi/refs/heads/main/python_img.jfif" height="70px" width="70px">
 <img src= "https://raw.githubusercontent.com/ManiRazeghi/ManiRazeghi/refs/heads/main/dj_image.jfif" height="70px" width="70px">
@@ -20,8 +20,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManiRazeghi&show_icons=true&theme=dark)
 
 ## I'm `intrested in`:
- - Team Working 🤝
- - being `Deep` in my skills💪
- - `Be update` and `Learning More`🧠
-
-## *Thanks for see my bio*
+ - `Team` Working 🤝
+ - `Deepening` in my skills💪
+ - `Staying updated` and `Learning More`🧠
